@@ -32,10 +32,13 @@ C++
 🛠️ Project Overview
 Goal: Build a real-time collaborative code editor using React, Node.js, Express, Socket.IO, and @monaco-editor/react.
 
-📦 Technologies Used
-Frontend: React, Socket.IO Client, Monaco Editor
 
+🛠️ Tech Stack Used:
+
+Frontend: React.js, CSS3
 Backend: Node.js, Express, Socket.IO
+Compiler Integration: Third-party APIs or custom backend logic
+Deployment: Render
 
 
 ## 📁 Folder Structure
