@@ -4,6 +4,15 @@ We'll dive into building a real-time code editor using React, Node.js, and Socke
 ## Features
 A fully functional real-time code editor that allows multiple users to collaborate seamlessly. Whether you're building a collaborative platform for coding interviews or want to learn more about real-time data exchange in web applications
 
+
+🛠️ ## Tech Stack Used:
+
+Frontend: React.js, CSS3
+Backend: Node.js, Express, Socket.IO
+Compiler Integration: Third-party APIs or custom backend logic
+Deployment: Render
+
+
 ## How to Work 
 🚀 How It Work:
 
@@ -32,13 +41,6 @@ C++
 🛠️ Project Overview
 Goal: Build a real-time collaborative code editor using React, Node.js, Express, Socket.IO, and @monaco-editor/react.
 
-
-🛠️ Tech Stack Used:
-
-Frontend: React.js, CSS3
-Backend: Node.js, Express, Socket.IO
-Compiler Integration: Third-party APIs or custom backend logic
-Deployment: Render
 
 
 ## 📁 Folder Structure
